@@ -1,0 +1,17 @@
+[
+  {
+    " Name of the hospital": "Apollo ",
+    "Patient Count ": 100,
+    " Hospital location": "Chennai"
+  },
+  {
+    "name": "Kims",
+    "patientCount": 150,
+    "location": "TVM"
+  },
+  {
+    "name": "Muthoot",
+    "patientCount": 200,
+    "location": "PTA"
+  }
+]
